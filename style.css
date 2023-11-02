@@ -1,0 +1,106 @@
+h1{
+    color: yellow;
+    background-color: darkblue;
+    padding: 15px;
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+}
+.point{
+    font-size: 20px;
+    padding: 20px;
+    color: yellow;
+    background-color: darkblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+.point-table{
+    height: 2000px;
+    width: 100%;
+    margin-top: 0;
+}
+th{
+    color: azure;
+    background-color: deeppink;
+    padding: 8px;
+    font-size: bold;
+}
+table{
+    border-collapse: collapse;
+    height: 400px;
+    width: 80%;
+    text-align: center;
+    margin-right: 10%;
+}
+tr{
+    padding: 0px 10px;
+    margin: 0px;
+    border-bottom: 0.5px solid rgb(6, 6, 6);
+    color: aliceblue;
+   }
+   .im{
+    text-align: left;
+    font-weight: bold;
+   }
+   .oo img{
+    height: 20px;
+    width: 18px;
+    
+   }
+   #non{
+    color: deeppink;
+   }
+   #pp{
+    text-align: left;
+   }
+   .tb{
+    background-image: url(images/wp11553144.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   .rule{
+    text-align: center;
+    background-color: rgb(25, 175, 138);
+    font-size: 30px;
+    color: rgb(235, 255, 122);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px 30%;
+    padding: 10px 0px;
+    border-radius: 10px;
+   }
+   .aa{
+    height: 350px;
+    width: 800px;
+    border: 4px solid black;
+    margin-top: 0%;
+    margin-left: 12%;
+   }
+.aa{
+    background-image: url(images/match-rule.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wr{
+    color: aliceblue;
+    text-align: left;
+    font-size: 14px;
+    margin-left: 12%;
+    margin-top: 5%;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+#messi{
+    width: 100%;
+    margin-bottom: 0%;
+}
+.nil{
+    height: 400px;
+    width: 100%;
+    background-image: url(images/wp11553144.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 0%;
+}
