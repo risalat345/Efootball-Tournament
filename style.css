@@ -137,19 +137,3 @@ tr{
 .iii{
     text-decoration: none;
 }
-/*Mobile View*/
-@media (max-width:500px) {
-table{
-    width: 100%;
-    font-size: 14px;
-}
-th{
-    font-size: 12px;
-}
-td,th{
-    padding: 6px;
-}
-.cup{
-    width: 100%;
-}
-}
