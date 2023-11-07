@@ -140,3 +140,24 @@ tr{
 video{
     margin-left: 15%;
 }
+/*Mobile View*/
+@media (max-width:500px){
+    .cup{
+        height:500px;
+    width: auto;
+    flex-wrap: wrap;
+    }
+    .video{
+        margin-top: 0%;
+        margin-left: 5%;
+    }
+    .bbb{
+        width: auto;
+        height: 500px;
+        flex-wrap: wrap;
+    }
+    .aaaa img{
+        height: 20px;
+        width: 10px;
+        }
+}
